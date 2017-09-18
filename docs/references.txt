@@ -1,0 +1,23 @@
+OpenStreetMap Reference
+    http://wiki.openstreetmap.org/wiki/Elements
+
+MongoDB Reference
+    https://docs.mongodb.com/manual/
+
+PyMongo Reference
+    https://api.mongodb.com/python/current/
+
+Python3 Reference
+    https://docs.python.org/3/reference/index.html
+
+Matplotlib Reference
+    https://matplotlib.org/contents.html
+
+Markdown Reference
+    https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+For Setting Up Port Forwarding To MongoDB Service
+    https://www.mkyong.com/mongodb/mongodb-allow-remote-access/
+
+For Converting Jupyter Notebooks To Python Scripts
+    https://ipython.org/ipython-doc/1/interactive/nbconvert.html

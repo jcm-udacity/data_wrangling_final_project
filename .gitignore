@@ -1,0 +1,7 @@
+# automatically generated files
+.ipynb_checkpoints/
+__pycache__/
+
+# full OSM and JSON data (too large)
+data/boston_cambridge.osm
+data/boston_cambridge_osm.json
